@@ -75,7 +75,7 @@
 
         <cn.carbswang.android.numberpickerview.library.NumberPickerView
             android:id="@+id/hour"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="160dp"
             android:layout_toEndOf="@+id/day"
             android:layout_toRightOf="@+id/day"
@@ -109,7 +109,7 @@
 
         <cn.carbswang.android.numberpickerview.library.NumberPickerView
             android:id="@+id/ampm"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="160dp"
             android:layout_toEndOf="@+id/minutes"
             android:layout_toRightOf="@+id/minutes"
